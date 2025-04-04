@@ -18,4 +18,5 @@ export const SITE = {
   },
   dynamicOgImage: true,
   lang: "en", // html lang code. Set this empty and default will be "en"
+  timezone: "America/Sao_Paulo", // Set this empty and default will be "UTC"
 } as const;
