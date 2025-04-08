@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://viniciusr.com/", // replace this with your deployed domain
+  website: "https://viniciusr.com", // replace this with your deployed domain
   author: "Paulo Vinicius",
   desc: "A personal blog about coding, startups, and life.",
   title: "Paulo Vinicius",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     url: "https://github.com/Vractos/blog/tree/main/",
     text: "Suggest Changes",
-    enabled: true
+    enabled: true,
   },
   dynamicOgImage: true,
   lang: "en", // html lang code. Set this empty and default will be "en"
